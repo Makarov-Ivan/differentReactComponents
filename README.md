@@ -1,2 +1,2 @@
-# differetntReactComponents
+# differentReactComponents
 Created with CodeSandbox
